@@ -28,7 +28,7 @@ pyinotify==0.9.4
 pyOpenSSL==17.5.0
 pyserial==2.6
 python-apt==0.9.3.12
-requests==2.4.3
+requests==2.20.0
 rpi-ws281x==3.0.4
 RPi.GPIO==0.6.3
 RTIMULib==7.2.1
