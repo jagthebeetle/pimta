@@ -40,5 +40,5 @@ smbus2==0.2.0
 spidev==3.2
 twython==3.1.2
 urllib3==1.26.5
-Werkzeug==0.15.3
+Werkzeug==2.2.3
 ws2812==1.0.0
